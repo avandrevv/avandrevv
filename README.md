@@ -1,5 +1,5 @@
 # About Me:
-Living just to fill this blank bio...
+Need to fill this blank bio...
 
 
 # 💻 Tech Stack:
