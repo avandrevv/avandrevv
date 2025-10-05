@@ -25,9 +25,11 @@ Data Base and Deploy:
 
 # Open Pet Projects:
 Обучение полносвзных нейронных сетей предсказывать поведение хаотичной системы:
+
 https://github.com/avandrevv/math_pendlum_predict.git
 
-Сервис для углубленного изучения английского языка любой области
+Сервис для углубленного изучения английского языка любой области:
+
 https://github.com/avandrevv/LangLearn.git
 
 
