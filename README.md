@@ -28,7 +28,7 @@ Data Base and Deploy:
 
 https://github.com/avandrevv/math_pendlum_predict.git
 
-Сервис для углубленного изучения английского языка любой области (Fast API, SQLite3):
+Сервис для углубленного изучения английского языка любой области (Fast API, SQLite):
 
 https://github.com/avandrevv/LangLearn.git
 
