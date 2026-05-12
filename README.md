@@ -1,5 +1,5 @@
 # About Me:
-Развиваюсь в Data Science.
+...
 
 
 # Tech Stack:
