@@ -1,16 +1,20 @@
 # Open Pet Projects:
 
-### Cистема конфиденциального машинного обучения (Zero-Knowledge ML) (Fast API, React, Ezkl):
+### FastAPI сервис для предсказаний с логированием запросов (Docker, CICD, PostgreSQL)
 
-https://github.com/avandrevv/math_pendlum_predict.git
+https://github.com/avandrevv/ML-service.git
 
-### Обучение полносвзных нейронных сетей предсказывать поведение хаотичной системы (Pytorch):
+### Cистема конфиденциального машинного обучения (Zero-Knowledge ML) (Fast API, React, Ezkl, Redis, PostgreSQL):
 
 https://github.com/avandrevv/math_pendlum_predict.git
 
 ### Сервис для углубленного изучения английского языка любой области (Fast API, SQLite):
 
 https://github.com/avandrevv/LangLearn.git
+
+### Обучение полносвзных нейронных сетей предсказывать поведение хаотичной системы (Pytorch):
+
+https://github.com/avandrevv/math_pendlum_predict.git
 
 
 # Tech Stack:
