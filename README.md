@@ -1,6 +1,6 @@
 # Open Pet Projects:
 
-### FastAPI сервис для предсказаний с логированием запросов (Docker, CICD, PostgreSQL)
+### FastAPI сервис для предсказаний с логированием запросов (Fast API, Docker, CICD, PostgreSQL)
 
 https://github.com/avandrevv/ML-service.git
 
