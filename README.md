@@ -24,6 +24,11 @@ Data Base and Deploy:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # Open Pet Projects:
+
+Cистема конфиденциального машинного обучения (Zero-Knowledge ML) (Fast API, React, Ezkl):
+
+https://github.com/avandrevv/math_pendlum_predict.git
+
 Обучение полносвзных нейронных сетей предсказывать поведение хаотичной системы (Pytorch):
 
 https://github.com/avandrevv/math_pendlum_predict.git
