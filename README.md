@@ -6,7 +6,7 @@ https://github.com/avandrevv/ML-service.git
 
 ### Cистема конфиденциального машинного обучения (Zero-Knowledge ML) (Fast API, React, Ezkl, Redis, PostgreSQL):
 
-https://github.com/avandrevv/math_pendlum_predict.git
+https://github.com/avandrevv/zkml-trading-api.git
 
 ### Сервис для углубленного изучения английского языка любой области (Fast API, SQLite):
 
